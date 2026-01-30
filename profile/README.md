@@ -11,6 +11,8 @@
 
 ## Important links
 
+**AI quickstart catalog:** [https://docs.redhat.com/en/learn/ai-quickstarts](https://docs.redhat.com/en/learn/ai-quickstarts)
+
 **User guide**:
 [https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md)
 
