@@ -18,19 +18,64 @@ Think of them as:
 
 ## Choose Your Adventure
 
-### 🧭 I'm an **Explorer**
-*I want to discover and deploy quickstarts*
+<div align="center">
 
-→ [**Browse the Catalog**](https://docs.redhat.com/en/learn/ai-quickstarts) - Curated quickstarts on redhat.com  
-→ [**View All Quickstarts**](https://github.com/orgs/rh-ai-quickstart/repositories) - The full GitHub collection  
-→ [**Read the User Guide**](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md) - Everything you need to get started
+### 🧭 Are you an EXPLORER or a BUILDER? 🔨
 
-### 🔨 I'm a **Builder** 
-*I want to create and contribute quickstarts*
+</div>
 
-→ [**Contributor's Guide**](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md) - How to build quickstarts  
-→ [**Join the Guild**](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues/new/choose) - Request organization membership  
-→ [**Publishing Guide**](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/PUBLISHING.md) - Get featured on redhat.com
+---
+
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+![Explorer](https://img.shields.io/badge/🧭_EXPLORER-Deploy_&_Learn-4A90E2?style=for-the-badge&labelColor=2E5C8A)
+
+</div>
+
+**I want to discover and deploy quickstarts**
+
+Start your journey here:
+
+- 🎯 **[Browse the Catalog](https://docs.redhat.com/en/learn/ai-quickstarts)** - Curated on redhat.com
+- 📚 **[View All Quickstarts](https://github.com/orgs/rh-ai-quickstart/repositories)** - Full collection  
+- 🚀 **[Read the User Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md)** - Get started
+
+<div align="center">
+
+**[🎮 START EXPLORING →](https://docs.redhat.com/en/learn/ai-quickstarts)**
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+![Builder](https://img.shields.io/badge/🔨_BUILDER-Create_&_Share-50C878?style=for-the-badge&labelColor=2D5F3C)
+
+</div>
+
+**I want to create and contribute quickstarts**
+
+Start building here:
+
+- 💡 **[Contributor's Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md)** - How to build
+- 🤝 **[Join the Guild](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues/new/choose)** - Get membership
+- 🌟 **[Publishing Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/PUBLISHING.md)** - Get featured
+
+<div align="center">
+
+**[🛠️ START BUILDING →](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md)**
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
