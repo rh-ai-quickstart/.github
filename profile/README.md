@@ -1,77 +1,102 @@
-# Welcome, Traveler! 🗺️
+# Welcome!
 
-> *"Stay a while and read..."*
+> _"Stay a while and read..."_
 
-You've discovered the **AI Quickstart Guild** — a treasure trove of ready-to-run AI demos that bring real business use cases to life on Red Hat AI platforms.
+<div align="center">
 
-## What awaits you here?
+### You've discovered the **AI QUICKSTART REPO**
+
+A treasure trove of ready-to-run AI demos that bring real business use cases to life on Red Hat AI platforms.
+
+</div>
+
+---
+
+##  WHAT AWAITS YOU HERE
 
 **AI quickstarts** are your shortcut to innovation. No lengthy tutorials, no complex theory — just practical, deployable examples that demonstrate what's possible with open source AI.
 
-Think of them as:
-- 🎯 **Portable demos** you can actually run
-- 💼 **Real business solutions** (not just tech showcases)  
-- 🚀 **Launch-ready** for Red Hat AI environments
-- 🌟 **Proof** that open source AI delivers value
-
----
-
-## Choose Your Adventure
-
 <div align="center">
 
-### 🧭 Are you an EXPLORER or a BUILDER? 🔨
+🎯 **PORTABLE DEMOS** you can actually run  
+💼 **REAL BUSINESS SOLUTIONS** (not just tech showcases)  
+🚀 **LAUNCH-READY** for Red Hat AI environments  
+🌟 **PROOF** that open source AI delivers value
 
 </div>
 
 ---
+
+## 🎮 CHOOSE YOUR ADVENTURE
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
-<div align="center">
+<img src="https://img.shields.io/badge/🧭_EXPLORER_PATH-Deploy_&_Learn-5B21B6?style=for-the-badge&labelColor=7C3AED" />
 
-![Explorer](https://img.shields.io/badge/🧭_EXPLORER-Deploy_&_Learn-4A90E2?style=for-the-badge&labelColor=2E5C8A)
+<br/><br/>
 
-</div>
+###  FOR THE CURIOUS ADVENTURER
 
-**I want to discover and deploy quickstarts**
+**Perfect for those who want to:**
+- 🗺️ Discover pre-built AI demos
+- 🎯 See what's possible
+- 🚀 Learn by doing
+- ⚡ Deploy quickly
 
-Start your journey here:
+<br/>
 
-- 🎯 **[Browse the Catalog](https://docs.redhat.com/en/learn/ai-quickstarts)** - Curated on redhat.com
-- 📚 **[View All Quickstarts](https://github.com/orgs/rh-ai-quickstart/repositories)** - Full collection  
-- 🚀 **[Read the User Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md)** - Get started
+#### 📍 YOUR QUEST BEGINS:
 
-<div align="center">
+**[📚 Browse the Catalog](https://docs.redhat.com/en/learn/ai-quickstarts)**  
+Curated quickstarts on redhat.com
 
-**[🎮 START EXPLORING →](https://docs.redhat.com/en/learn/ai-quickstarts)**
+**[🗃️ View All Quickstarts](https://github.com/orgs/rh-ai-quickstart/repositories)**  
+The full GitHub collection
 
-</div>
+**[📖 Read the User Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md)**  
+Everything you need to start
+
+<br/>
+
+<a href="https://docs.redhat.com/en/learn/ai-quickstarts">
+  <img src="https://img.shields.io/badge/⚔️_BEGIN_YOUR_JOURNEY-7C3AED?style=for-the-badge" />
+</a>
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
-<div align="center">
+<img src="https://img.shields.io/badge/🔨_BUILDER_PATH-Create_&_Share-059669?style=for-the-badge&labelColor=10B981" />
 
-![Builder](https://img.shields.io/badge/🔨_BUILDER-Create_&_Share-50C878?style=for-the-badge&labelColor=2D5F3C)
+<br/><br/>
 
-</div>
+###  FOR THE CRAFTSMAN
 
-**I want to create and contribute quickstarts**
+**Perfect for those who want to:**
+- ⚒️ Build your own quickstarts
+- 🤝 Contribute to the guild
+- ⭐ Get published on redhat.com
+- 🌟 Share your expertise
 
-Start building here:
+<br/>
 
-- 💡 **[Contributor's Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md)** - How to build
-- 🤝 **[Join the Guild](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues/new/choose)** - Get membership
-- 🌟 **[Publishing Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/PUBLISHING.md)** - Get featured
+#### 📍 YOUR QUEST BEGINS:
 
-<div align="center">
+**[📜 Contributor's Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md)**  
+How to build quickstarts
 
-**[🛠️ START BUILDING →](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md)**
+**[🎫 Join the Guild](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues/new/choose)**  
+Request organization membership
 
-</div>
+**[📤 Publishing Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/PUBLISHING.md)**  
+Get featured on redhat.com
+
+<br/>
+
+<a href="https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md">
+  <img src="https://img.shields.io/badge/⚒️_START_BUILDING-10B981?style=for-the-badge" />
+</a>
 
 </td>
 </tr>
@@ -79,8 +104,14 @@ Start building here:
 
 ---
 
-## Need Help?
+<div align="center">
 
-📬 [Open an issue](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues) in ai-quickstart-contrib
+## 💬 NEED HELP ON YOUR QUEST?
 
-*Built by Red Hat AI experts, partners, and the community. Contributions encouraged!* ✨ 
+**[🎯 Open an Issue](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues)** in ai-quickstart-contrib
+
+<br/>
+
+_Built by Red Hat AI experts, partners, and the community. Contributions encouraged!_ ✨
+
+</div>
