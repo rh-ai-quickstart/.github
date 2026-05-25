@@ -1,35 +1,41 @@
-# Welcome to AI quickstart :wave: 
+# Welcome, Traveler! 🗺️
 
-## tl;dr
+> *"Stay a while and read..."*
 
-> AI quickstarts are: 
-> * portable, AI-centric demos 
-> * focused on real business use cases 
-> * easily deployable in Red Hat AI environments
->
-> They illustrate what can be built on top of Red Hat AI.
+You've discovered the **AI Quickstart Guild** — a treasure trove of ready-to-run AI demos that bring real business use cases to life on Red Hat AI platforms.
 
-## Important links
+## What awaits you here?
 
-**AI quickstart catalog:** [https://docs.redhat.com/en/learn/ai-quickstarts](https://docs.redhat.com/en/learn/ai-quickstarts)
+**AI quickstarts** are your shortcut to innovation. No lengthy tutorials, no complex theory — just practical, deployable examples that demonstrate what's possible with open source AI.
 
-**User guide**:
-[https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md)
+Think of them as:
+- 🎯 **Portable demos** you can actually run
+- 💼 **Real business solutions** (not just tech showcases)  
+- 🚀 **Launch-ready** for Red Hat AI environments
+- 🌟 **Proof** that open source AI delivers value
 
-**Contributor guide**:
-[https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md)
+---
 
-**General feedback, issues, suggestions, and membership**:
-[https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues)
+## Choose Your Adventure
 
-## ... a bit more detail
+### 🧭 I'm an **Explorer**
+*I want to discover and deploy quickstarts*
 
-**AI quickstarts** are straight-forward, ready-to-run examples that 
-demonstrate **real business use cases** on your Red Hat AI platform. They go 
-beyond technical demos to showcase how open source AI delivers value and 
-innovation. They are here to jump-start your journey and help you get the most 
-out of Red Hat AI.
+→ [**Browse the Catalog**](https://docs.redhat.com/en/learn/ai-quickstarts) - Curated quickstarts on redhat.com  
+→ [**View All Quickstarts**](https://github.com/orgs/rh-ai-quickstart/repositories) - The full GitHub collection  
+→ [**Read the User Guide**](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md) - Everything you need to get started
 
-Many of these examples come straight from Red Hat AI experts. After all, this 
-is our day job! Contributions from Red Hat partners and the community are not 
-just welcome, they are *encouraged*. 
+### 🔨 I'm a **Builder** 
+*I want to create and contribute quickstarts*
+
+→ [**Contributor's Guide**](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md) - How to build quickstarts  
+→ [**Join the Guild**](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues/new/choose) - Request organization membership  
+→ [**Publishing Guide**](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/PUBLISHING.md) - Get featured on redhat.com
+
+---
+
+## Need Help?
+
+📬 [Open an issue](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues) in ai-quickstart-contrib
+
+*Built by Red Hat AI experts, partners, and the community. Contributions encouraged!* ✨ 
