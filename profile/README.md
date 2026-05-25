@@ -12,14 +12,18 @@ A treasure trove of ready-to-run AI demos that bring real business use cases to 
 
 ---
 
+<div align="center">
+
 ##  WHAT AWAITS YOU HERE
+
+</div>
 
 **AI quickstarts** are your shortcut to innovation. No lengthy tutorials, no complex theory — just practical, deployable examples that demonstrate what's possible with open source AI.
 
 <div align="center">
 
-🎯 **PORTABLE DEMOS** you can actually run  
-💼 **REAL BUSINESS SOLUTIONS** (not just tech showcases)  
+🎯 **PORTABLE DEMOS** you can run  
+💼 **REAL BUSINESS SOLUTIONS** not just tech showcases 
 🚀 **LAUNCH-READY** for Red Hat AI environments  
 🌟 **PROOF** that open source AI delivers value
 
@@ -27,9 +31,13 @@ A treasure trove of ready-to-run AI demos that bring real business use cases to 
 
 ---
 
+<div align="center">
+
 ## 🎮 CHOOSE YOUR ADVENTURE
 
-<table>
+</div>
+
+<table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
@@ -40,10 +48,11 @@ A treasure trove of ready-to-run AI demos that bring real business use cases to 
 ###  FOR THE CURIOUS ADVENTURER
 
 **Perfect for those who want to:**
-- 🗺️ Discover pre-built AI demos
-- 🎯 See what's possible
-- 🚀 Learn by doing
-- ⚡ Deploy quickly
+
+🗺️ Discover pre-built AI demos  
+🎯 See what's possible  
+🚀 Learn by doing  
+⚡ Deploy quickly
 
 <br/>
 
@@ -58,7 +67,7 @@ The full GitHub collection
 **[📖 Read the User Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md)**  
 Everything you need to start
 
-<br/>
+<br/><br/>
 
 <a href="https://docs.redhat.com/en/learn/ai-quickstarts">
   <img src="https://img.shields.io/badge/⚔️_BEGIN_YOUR_JOURNEY-7C3AED?style=for-the-badge" />
@@ -74,10 +83,11 @@ Everything you need to start
 ###  FOR THE CRAFTSMAN
 
 **Perfect for those who want to:**
-- ⚒️ Build your own quickstarts
-- 🤝 Contribute to the guild
-- ⭐ Get published on redhat.com
-- 🌟 Share your expertise
+
+⚒️ Build your own quickstarts  
+🤝 Contribute to the guild  
+⭐ Get published on redhat.com  
+🌟 Share your expertise
 
 <br/>
 
@@ -92,7 +102,7 @@ Request organization membership
 **[📤 Publishing Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/PUBLISHING.md)**  
 Get featured on redhat.com
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md">
   <img src="https://img.shields.io/badge/⚒️_START_BUILDING-10B981?style=for-the-badge" />
