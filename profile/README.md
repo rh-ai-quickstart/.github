@@ -37,6 +37,8 @@ A treasure trove of ready-to-run AI demos that bring real business use cases to 
 
 </div>
 
+<div align="center">
+
 <table width="100%" style="border: none;">
 <tr style="border: none;">
 <td width="50%" align="center" valign="top" style="border: none;">
@@ -111,6 +113,8 @@ Get featured on redhat.com
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
