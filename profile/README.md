@@ -4,9 +4,10 @@
 
 ### You've discovered the **AI QUICKSTART REPO**
 
-_Stay a while and read..._
 
 A treasure trove of ready-to-run AI demos that bring real business use cases to life on Red Hat AI platforms.
+
+_Stay a while and read..._
 
 </div>
 
