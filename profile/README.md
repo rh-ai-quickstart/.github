@@ -37,13 +37,20 @@ A treasure trove of ready-to-run AI demos that bring real business use cases to 
 
 </div>
 
-<table border="0" cellpadding="20" cellspacing="0" width="100%">
+<table>
+<thead>
+<tr>
+<th width="50%">
+<img src="https://img.shields.io/badge/🧭_EXPLORER_PATH-Deploy_&_Learn-5B21B6?style=for-the-badge&labelColor=7C3AED" />
+</th>
+<th width="50%">
+<img src="https://img.shields.io/badge/🔨_BUILDER_PATH-Create_&_Share-059669?style=for-the-badge&labelColor=10B981" />
+</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td align="center" valign="top">
-
-<img src="https://img.shields.io/badge/🧭_EXPLORER_PATH-Deploy_&_Learn-5B21B6?style=for-the-badge&labelColor=7C3AED" />
-
-<br/><br/>
 
 ###  FOR THE CURIOUS ADVENTURER
 
@@ -76,10 +83,6 @@ Everything you need to start
 </td>
 <td align="center" valign="top">
 
-<img src="https://img.shields.io/badge/🔨_BUILDER_PATH-Create_&_Share-059669?style=for-the-badge&labelColor=10B981" />
-
-<br/><br/>
-
 ###  FOR THE CRAFTSMAN
 
 **Perfect for those who want to:**
@@ -110,6 +113,7 @@ Get featured on redhat.com
 
 </td>
 </tr>
+</tbody>
 </table>
 
 ---
