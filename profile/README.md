@@ -37,9 +37,9 @@ A treasure trove of ready-to-run AI demos that bring real business use cases to 
 
 </div>
 
-<table width="100%" style="border: none;">
-<tr style="border: none;">
-<td width="50%" align="center" valign="top" style="border: none;">
+<table border="0" cellpadding="20" cellspacing="0" width="100%">
+<tr>
+<td align="center" valign="top">
 
 <img src="https://img.shields.io/badge/🧭_EXPLORER_PATH-Deploy_&_Learn-5B21B6?style=for-the-badge&labelColor=7C3AED" />
 
@@ -74,7 +74,7 @@ Everything you need to start
 </a>
 
 </td>
-<td width="50%" align="center" valign="top" style="border: none;">
+<td align="center" valign="top">
 
 <img src="https://img.shields.io/badge/🔨_BUILDER_PATH-Create_&_Share-059669?style=for-the-badge&labelColor=10B981" />
 
