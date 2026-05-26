@@ -45,7 +45,7 @@ A treasure trove of ready-to-run AI demos that bring real business use cases to 
 
 <br/><br/>
 
-###  FOR THE CURIOUS ADVENTURER
+###  FOR THE ADVENTURER
 
 **Perfect for those who want to:**
 
