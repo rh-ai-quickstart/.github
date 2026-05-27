@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome!
+# Welcome! 👋
 
 ### You've discovered the **AI QUICKSTART REPO**
 
@@ -19,7 +19,7 @@ _Stay a while and read..._
 
 </div>
 
-**AI quickstarts** are your shortcut to innovation. No lengthy tutorials, no complex theory — just practical, deployable examples that demonstrate what's possible with open source AI.
+**AI quickstarts** are your shortcut to innovation and contains practical, deployable examples that demonstrate what's possible with open source AI.
 
 <div align="center">
 
@@ -34,7 +34,7 @@ _Stay a while and read..._
 
 <div align="center">
 
-## 🎮 CHOOSE YOUR ADVENTURE
+## 🎮 CHOOSE YOUR ADVENTURE 🎮
 
 </div>
 
@@ -54,20 +54,19 @@ _Stay a while and read..._
 
 🗺️ Discover pre-built AI demos  
 🎯 See what's possible  
-🚀 Learn by doing  
 ⚡ Deploy quickly
 
 <br/>
 
-#### 📍 YOUR QUEST BEGINS:
+####  YOUR QUEST BEGINS:
 
-**[📚 Browse the Catalog](https://docs.redhat.com/en/learn/ai-quickstarts)**  
+**[📚 Browse the catalog](https://docs.redhat.com/en/learn/ai-quickstarts)**  
 Curated quickstarts on redhat.com
 
-**[🗃️ View All Quickstarts](https://github.com/orgs/rh-ai-quickstart/repositories)**  
+**[🗃️ View all quickstarts](https://github.com/orgs/rh-ai-quickstart/repositories)**  
 The full GitHub collection
 
-**[📖 Read the User Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md)**  
+**[📖 Read the user guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md)**  
 Everything you need to start
 
 <br/><br/>
@@ -87,22 +86,21 @@ Everything you need to start
 
 **Perfect for those who want to:**
 
-⚒️ Build your own quickstarts  
-🤝 Contribute to the guild  
+⚒️ Build your own quickstarts   
 ⭐ Get published on redhat.com  
 🌟 Share your expertise
 
 <br/>
 
-#### 📍 YOUR QUEST BEGINS:
+####  YOUR QUEST BEGINS:
 
-**[📜 Contributor's Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md)**  
+**[📜 Contributor's guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md)**  
 How to build quickstarts
 
-**[🎫 Join the Guild](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues/new/choose)**  
+**[🎫 Join the org](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues/new/choose)**  
 Request organization membership
 
-**[📤 Publishing Guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/PUBLISHING.md)**  
+**[📤 Publishing guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/PUBLISHING.md)**  
 Get featured on redhat.com
 
 <br/><br/>
@@ -123,7 +121,7 @@ Get featured on redhat.com
 
 ## 💬 NEED HELP ON YOUR QUEST?
 
-**[🎯 Open an Issue](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues)** in ai-quickstart-contrib
+**[🎯 Open an issue](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues)** in ai-quickstart-contrib
 
 <br/>
 
