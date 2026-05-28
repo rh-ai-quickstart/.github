@@ -1,35 +1,130 @@
-# Welcome to AI quickstart :wave: 
+<div align="center">
 
-## tl;dr
+# Welcome! 👋
 
-> AI quickstarts are: 
-> * portable, AI-centric demos 
-> * focused on real business use cases 
-> * easily deployable in Red Hat AI environments
->
-> They illustrate what can be built on top of Red Hat AI.
+### You've discovered the **AI QUICKSTART REPO**
 
-## Important links
 
-**AI quickstart catalog:** [https://docs.redhat.com/en/learn/ai-quickstarts](https://docs.redhat.com/en/learn/ai-quickstarts)
+A treasure trove of ready-to-run AI demos that bring real business use cases to life on Red Hat AI platforms.
 
-**User guide**:
-[https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md)
+_Stay a while and read..._
 
-**Contributor guide**:
-[https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md)
+</div>
 
-**General feedback, issues, suggestions, and membership**:
-[https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues)
+---
 
-## ... a bit more detail
+<div align="center">
 
-**AI quickstarts** are straight-forward, ready-to-run examples that 
-demonstrate **real business use cases** on your Red Hat AI platform. They go 
-beyond technical demos to showcase how open source AI delivers value and 
-innovation. They are here to jump-start your journey and help you get the most 
-out of Red Hat AI.
+##  WHAT AWAITS YOU HERE
 
-Many of these examples come straight from Red Hat AI experts. After all, this 
-is our day job! Contributions from Red Hat partners and the community are not 
-just welcome, they are *encouraged*. 
+</div>
+
+**AI quickstarts** are your shortcut to innovation and contains practical, deployable examples that demonstrate what's possible with open source AI.
+
+<div align="center">
+
+🎯 **PORTABLE DEMOS** you can run  
+💼 **REAL BUSINESS SOLUTIONS** not just tech showcases 
+🚀 **LAUNCH-READY** for Red Hat AI environments  
+🌟 **PROOF** that open source AI delivers value
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎮 CHOOSE YOUR ADVENTURE 🎮
+
+</div>
+
+<div align="center">
+
+<table width="100%" style="border: none;">
+<tr style="border: none;">
+<td width="50%" align="center" valign="top" style="border: none;">
+
+<img src="https://img.shields.io/badge/🧭_EXPLORER_PATH-Deploy_&_Learn-5B21B6?style=for-the-badge&labelColor=7C3AED" />
+
+<br/><br/>
+
+###  FOR THE ADVENTURER
+
+**Perfect for those who want to:**
+
+🗺️ Discover pre-built AI demos  
+🎯 See what's possible  
+⚡ Deploy quickly
+
+<br/>
+
+####  YOUR QUEST BEGINS:
+
+**[📚 Browse the catalog](https://docs.redhat.com/en/learn/ai-quickstarts)**  
+Curated quickstarts on redhat.com
+
+**[🗃️ View all quickstarts](https://github.com/orgs/rh-ai-quickstart/repositories)**  
+The full GitHub collection
+
+**[📖 Read the user guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md)**  
+Everything you need to start
+
+<br/><br/>
+
+<a href="https://docs.redhat.com/en/learn/ai-quickstarts">
+  <img src="https://img.shields.io/badge/⚔️_BEGIN_YOUR_JOURNEY-7C3AED?style=for-the-badge" />
+</a>
+
+</td>
+<td width="50%" align="center" valign="top" style="border: none;">
+
+<img src="https://img.shields.io/badge/🔨_BUILDER_PATH-Create_&_Share-059669?style=for-the-badge&labelColor=10B981" />
+
+<br/><br/>
+
+###  FOR THE CRAFTSMAN
+
+**Perfect for those who want to:**
+
+⚒️ Build your own quickstarts   
+⭐ Get published on redhat.com  
+🌟 Share your expertise
+
+<br/>
+
+####  YOUR QUEST BEGINS:
+
+**[📜 Contributor's guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md)**  
+How to build quickstarts
+
+**[🎫 Join the org](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues/new/choose)**  
+Request organization membership
+
+**[📤 Publishing guide](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/PUBLISHING.md)**  
+Get featured on redhat.com
+
+<br/><br/>
+
+<a href="https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md">
+  <img src="https://img.shields.io/badge/⚒️_START_BUILDING-10B981?style=for-the-badge" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 NEED HELP ON YOUR QUEST?
+
+**[🎯 Open an issue](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues)** in ai-quickstart-contrib
+
+<br/>
+
+_Built by Red Hat AI experts, partners, and the community. Contributions encouraged!_ ✨
+
+</div>
